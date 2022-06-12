@@ -13,6 +13,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Townhouse Guide
 est.  June 11, 2022
 
+Welcome Home.
+
 City and garden living. 
 
 
