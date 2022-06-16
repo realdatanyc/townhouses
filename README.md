@@ -19,12 +19,13 @@ Welcome Home.
 
 City and garden living. 
 
+[Townhouse definition - Mansion Global]([https://www.mansionglobal.com/library/townhouse)
+
 
 ```markdown
 Syntax highlighted code block
 
 # Header 1
-[Townhouse definition _Mansion Global]([https://www.mansionglobal.com/library/townhouse)
 ## Header 2
 ### Header 3
 
