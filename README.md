@@ -7,6 +7,8 @@
 
 [124 West 132nd Street](https://streeteasy.com/sale/1473435)
 
+[Resource Furniture - Murphy Beds](https://resourcefurniture.com/product-tag/queen-transforming-bed-systems-transforming-furniture/)
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
