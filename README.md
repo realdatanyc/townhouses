@@ -3,9 +3,12 @@
 [Townhouseguide.com - direct Github Pages link](https://townhouseguide.github.io/townhouseguide.io/)
 
 townhouseguide.com
+
 www.townhouseguide.com
 
 [Townhouseguide.com - url link](https://www.townhouseguide.com)
+
+
 
 
 [Manhattan Townhouses with elevator](https://streeteasy.com/townhouses/manhattan/amenities:elevator)
@@ -16,6 +19,11 @@ www.townhouseguide.com
 
 [Resource Furniture - Murphy Beds](https://resourcefurniture.com/product-tag/queen-transforming-bed-systems-transforming-furniture/)
 
+[Real Estate Advertising](https://dos.ny.gov/real-estate-advertising)
+
+[Real Estate Broker](https://dos.ny.gov/real-estate-broker) 
+
+14 sales transations to be a broker, 140 rental transactions
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
