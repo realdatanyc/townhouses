@@ -2,7 +2,10 @@
 
 [Townhouseguide.com - direct Github Pages link](https://townhouseguide.github.io/townhouseguide.io/)
 
-[Townhouseguide.com - url link](https://townhouseguide.com)
+townhouseguide.com
+www.townhouseguide.com
+
+[Townhouseguide.com - url link](https://www.townhouseguide.com)
 
 
 [Manhattan Townhouses with elevator](https://streeteasy.com/townhouses/manhattan/amenities:elevator)
