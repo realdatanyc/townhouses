@@ -1,6 +1,8 @@
 ## TOWNHOUSES
 
-[Townhouseguide.com - Github Pages link](https://townhouseguide.github.io/townhouseguide.io/)
+[Townhouseguide.com - direct Github Pages link](https://townhouseguide.github.io/townhouseguide.io/)
+
+[Townhouseguide.com - url link](https://townhouseguide.com)
 
 
 [Manhattan Townhouses with elevator](https://streeteasy.com/townhouses/manhattan/amenities:elevator)
